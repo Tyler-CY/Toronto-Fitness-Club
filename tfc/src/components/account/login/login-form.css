@@ -1,0 +1,8 @@
+#login_div {
+    margin: auto;
+    width: 50%;
+}
+
+#login_form > * {
+    margin: 1%;
+}
